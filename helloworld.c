@@ -1,6 +1,7 @@
+// Group member names: James Pappas, David Delisele, Alec Puente
 /* Hello World program */
 
-#include<stdio.h>
+#include <stdio.h> // This includes the input/output header into the source file
 
 main() {
     
