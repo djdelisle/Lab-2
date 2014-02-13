@@ -3,7 +3,8 @@
 #include<stdio.h>
 
 main() {
-    printf("Hello World");
-    //sup
+    
+    printf("Hello World"); //It prints Hello World
+    
     
 }
